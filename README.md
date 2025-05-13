@@ -90,5 +90,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=issq1&show_icons=true&locale=en" alt="issq1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=issq1&" alt="issq1" /></p>
+
 
