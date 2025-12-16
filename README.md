@@ -21,11 +21,6 @@
 
 - ⚡ Fun fact **I can code faster than my coffee gets cold☕💻**
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=issq1" alt="issq1" />
-    </a> 
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
