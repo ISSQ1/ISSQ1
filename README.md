@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" alt="MasterHead" />
+    <img src="https://github.com/user-attachments/assets/e0611475-68c4-4b68-badb-c5a621e3fc61" 
+ alt="MasterHead" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shatha AlQubaisi</h1>
