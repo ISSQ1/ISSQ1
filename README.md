@@ -16,7 +16,7 @@
 
 - 🧠 I’m looking for help with **advanced AI research and complex problem-solving**
 
-- 💬 Ask me about **AI, Computer Science, and UI/UX Design**
+- 💬 Ask me about **AI and Computer Science**
 
 - 📫 How to reach me **shathaalqubaisi@outlook.com**
 
