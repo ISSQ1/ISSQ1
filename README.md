@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/e0611475-68c4-4b68-badb-c5a621e3fc61" 
- alt="MasterHead" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeW9lNWx4dnd5MTI5dnVxN2NxamF5Z3FtZHV2M3dhMzF1Y3NhNzU2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" 
+    alt="MasterHead" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shatha AlQubaisi</h1>
